@@ -1,0 +1,7 @@
+F:\GitItems\CSharpExtensionTool\CSharpExtensionTool\CSharpExtensionTool\obj\Debug\CSharpExtensionTool.csproj.AssemblyReference.cache
+F:\GitItems\CSharpExtensionTool\CSharpExtensionTool\CSharpExtensionTool\obj\Debug\CSharpExtensionTool.csproj.CoreCompileInputs.cache
+F:\GitItems\CSharpExtensionTool\CSharpExtensionTool\CSharpExtensionTool\bin\Debug\CSharpExtensionTool.xml
+F:\GitItems\CSharpExtensionTool\CSharpExtensionTool\CSharpExtensionTool\bin\Debug\CSharpExtensionTool.dll
+F:\GitItems\CSharpExtensionTool\CSharpExtensionTool\CSharpExtensionTool\bin\Debug\CSharpExtensionTool.pdb
+F:\GitItems\CSharpExtensionTool\CSharpExtensionTool\CSharpExtensionTool\obj\Debug\CSharpExtensionTool.dll
+F:\GitItems\CSharpExtensionTool\CSharpExtensionTool\CSharpExtensionTool\obj\Debug\CSharpExtensionTool.pdb
