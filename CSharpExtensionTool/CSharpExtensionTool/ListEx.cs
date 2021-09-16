@@ -21,7 +21,6 @@ namespace CSharpExtensionTool.ListExtension
             {
                 return false;
             }
-            //T的格式正确
             
             //记录
             capcity = selfList.Count > 0 ? selfList.Count : capcity;
