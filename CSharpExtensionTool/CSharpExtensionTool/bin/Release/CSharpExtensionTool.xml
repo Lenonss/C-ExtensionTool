@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSharpExtensionTool</name>
+    </assembly>
+    <members>
+        <member name="M:CSharpExtensionTool.ListExtension.ListEx.InitListWithValue``1(System.Collections.Generic.List{``0},``0,System.Int32)">
+            <summary>
+            指定值初始化List数组,可指定数组容量。
+            指定类型不可为引用类型
+            </summary>
+            <typeparam name="T">数组类型，限定为struct</typeparam>
+            <param name="selfList">数组</param>
+            <param name="Value">指定值</param>
+            <param name="capcity">List.Count=0才起效</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,3 +1,5 @@
 /Users/mac/Items/C-ExtensionTool/CSharpExtensionTool/CSharpExtensionTool/bin/Release/CSharpExtensionTool.dll
 /Users/mac/Items/C-ExtensionTool/CSharpExtensionTool/CSharpExtensionTool/obj/Release/CSharpExtensionTool.csproj.CoreCompileInputs.cache
 /Users/mac/Items/C-ExtensionTool/CSharpExtensionTool/CSharpExtensionTool/obj/Release/CSharpExtensionTool.dll
+/Users/mac/Items/C-ExtensionTool/CSharpExtensionTool/CSharpExtensionTool/obj/Release/CSharpExtensionTool.csproj.AssemblyReference.cache
+/Users/mac/Items/C-ExtensionTool/CSharpExtensionTool/CSharpExtensionTool/bin/Release/CSharpExtensionTool.xml
