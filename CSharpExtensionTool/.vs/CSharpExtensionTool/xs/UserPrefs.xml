@@ -1,13 +1,16 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="CSharpExtensionTool/ListEx.cs">
     <Files>
-      <File FileName="CSharpExtensionTool/ListEx.cs" Line="9" Column="34" />
+      <File FileName="CSharpExtensionTool/ListEx.cs" Line="39" Column="10" />
+      <File FileName="CSharpExtensionTool/Interfaces/ICopyClass.cs" Line="6" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpExtensionTool" expanded="True">
             <Node name="CSharpExtensionTool" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Properties" expanded="True" />
               <Node name="ListEx.cs" selected="True" />
             </Node>
           </Node>

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using CSharpExtensionTool.Interfaces;
 namespace CSharpExtensionTool.ListExtension
 {
     public static class ListEx
@@ -14,7 +14,7 @@ namespace CSharpExtensionTool.ListExtension
         /// <param name="Value">指定值</param>
         /// <param name="capcity">List.Count=0才起效</param>
         /// <returns></returns>
-        public static bool InitListWithValue<T>(this List<T> selfList, T Value, int capcity = 0) where T : struct
+        public static bool InitListWithValue<ST>(this List<ST> selfList, ST Value, int capcity = 0) where ST : struct
         {
             //数组不为空
             if (selfList == null)
@@ -35,5 +35,12 @@ namespace CSharpExtensionTool.ListExtension
 
             return true;
         }
+        public static bool InitListWithClassValue<T>(this List<T> selfList, T Value, int capcity = 0) where T : ICopyClass
+        {
+            var newClass = Value.GetNewCopyClass<T>(Value);
+            return true;
+        }
+
     }
+
 }
